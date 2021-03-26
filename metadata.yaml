@@ -1,0 +1,5 @@
+homepage: "https://gtmutility.com"
+documentation: "https://gtmutility.com/blog/gtm-community-template-value-range/"
+versions:
+  - sha: 63c648c96454f19c03d36f1af83156500e4b0cc9
+    changeNotes: Initial release.
